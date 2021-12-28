@@ -1,7 +1,7 @@
 ### Oie, Eu sou a Luci Sousa
 
 ##
-- Sou Formada em Sistemas para Internet  
+- 🔭Sou Formada em Sistemas para Internet 
 - 🔭Hoje trabalho como analista de sistemas
 - 🌱 Estou estudando programação WEB
 - 📫 Contate-me via e-mail: marialuci148@gmail.com
