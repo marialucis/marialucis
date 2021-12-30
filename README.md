@@ -1,13 +1,13 @@
 ### Oie, Eu sou a Luci Sousa
 
-##
--  Graduada em Sistemas para Internet 
-- 🔭Hoje trabalho como analista de sistemas
-- 🌱 Estou estudando programação WEB
-- 📫 Contate-me via e-mail: marialuci148@gmail.com
-- 😄 Pronouns: ela/dela
+#
+*  Graduada em Sistemas para Internet 
+* 🔭Hoje trabalho como analista de sistemas
+* 🌱 Estou estudando programação WEB
+* 📫 Contate-me via e-mail: marialuci148@gmail.com
+* 😄 Pronouns: ela/dela
 
-##
+#
 <div align="center">
   <a href="https://github.com/marialucis">
    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=marialucis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
