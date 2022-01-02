@@ -1,6 +1,5 @@
 ### Oie, Eu sou a Luci Sousa
 
-#
 *  Graduada em Sistemas para Internet 
 * 🔭Hoje trabalho como analista de sistemas
 * 🌱 Estou estudando programação WEB
