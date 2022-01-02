@@ -17,6 +17,7 @@
     <h2>Front-End</h2>
     <img align="center" alt="Luci-HTML" height="50" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
     <img align="center" alt="Luci-CSS" height="50" width="50"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+   <img align="center" alt="Luci-Markdown" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
 </div>
   
 <div style="display: inline_block">
