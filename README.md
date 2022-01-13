@@ -42,4 +42,5 @@
       <h2>Sistemas Operacionais</h2>
       <img align="center" alt="Luci-WIN" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
       <img align="center" alt="Luci-LINUX" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+      <img align="center" alt="Luci-UBUNTU" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" />
 </div>      
