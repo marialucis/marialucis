@@ -1,7 +1,7 @@
 ### Oie, Eu sou a Luci Sousa
 
 *  Graduada em Sistemas para Internet 
-* 🔭Hoje trabalho como analista de sistemas
+* 🔭Hoje trabalho como Analista de Sistemas
 * 🌱 Estou estudando programação WEB
 * 📫 Contate-me via e-mail: marialuci148@gmail.com
 * 😄 Pronouns: ela/dela
@@ -23,6 +23,7 @@
 <div style="display: inline_block">
      <h2>Back-End</h2>
      <img align="center" alt="Luci-MYSQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+     <img align="center" alt="Luci-ORACLE" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
      <img align="center" alt="Luci-PHP" height="50" width="50"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
      <img align="center" alt="Luci-VSCODE" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg"/>  
 </div>
