@@ -22,11 +22,16 @@
   
 <div style="display: inline_block">
      <h2>Back-End</h2>
-     <img align="center" alt="Luci-MYSQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-     <img align="center" alt="Luci-ORACLE" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
      <img align="center" alt="Luci-PHP" height="50" width="50"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
      <img align="center" alt="Luci-VSCODE" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg"/>  
 </div>
+
+   
+<div style= "display: inline_block">
+   <h2>SGBD´s</h2>
+   <img align="center" alt="Luci-MYSQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+   <img align="center" alt="Luci-ORACLE" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
+</div>   
   
 <div style="display: inline_block">
      <h2>Sistema de Controle de Versões</h2>
