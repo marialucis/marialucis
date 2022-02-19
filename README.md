@@ -1,7 +1,7 @@
 ### Oie, Eu sou a Luci Sousa
 
 *  Graduada em Sistemas para Internet 
-* 🔭Hoje trabalho como Analista Programador
+* 🔭Hoje trabalho como Analista Programador .NET
 * 🌱 Estou estudando programação WEB
 * 📫 Contate-me via e-mail: marialuci148@gmail.com
 * 😄 Pronouns: ela/dela
