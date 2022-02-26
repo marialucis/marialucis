@@ -38,6 +38,7 @@
      <h2>Sistema de Controle de Versões</h2>
      <img align="center" alt="Luci-GIT" height="50" width="50"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
      <img align="center" alt="Luci-GITHUB" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
+     <img align="center" alt="Luci-GITHUB" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tortoisegit/tortoisegit-original.svg" />
 </div>
   
 <div style="display: inline_block">
