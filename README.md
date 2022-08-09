@@ -3,7 +3,7 @@
 *  Graduada em Sistemas para Internet 
 * 🔭Hoje trabalho como Analista Programador (.NET)
 * 🌱 Estou estudando programação 
-* 📫 Contate-me via e-mail: marialuci148@gmail.com
+* 📫 Contate-me via e-mail: luci.desenv@gmail.com
 * 😄 Pronouns: ela/dela
 
 #
