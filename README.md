@@ -1,7 +1,7 @@
 ### Oie, Eu sou a Luci Sousa
 
 *  Graduada em Sistemas para Internet 
-* 🔭Hoje trabalho como Analista Programador (.NET/Delphi/PLSQL-ORACLE)
+* 🔭Hoje trabalho como Analista Programador(.NET/Delphi/PLSQL-ORACLE)
 * 🌱 Estou estudando programação (Back-End)
 * 📫 Contate-me via e-mail: luci.desenv@gmail.com
 * 😄 Pronouns: ela/dela
@@ -23,14 +23,16 @@
 <div style="display: inline_block">
      <h2>Back-End</h2>
      <img align="center" alt="Luci-PHP" height="50" width="50"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-     <img align="center" alt="Luci-PHP" height="50" width="50"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /> 
+     <img align="center" alt="Luci-CSHARP" height="50" width="50"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /> 
 </div>
    
    
 <div style="display: inline_block">
-      <h2>IDE</h2>
+      <h2>IDE´s / FRAMEWORKs</h2>
      <img align="center" alt="Luci-VSCODE" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg"/> 
-     <img align="center" alt="Luci-VSCODE" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
+     <img align="center" alt="Luci-VS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain-wordmark.svg" />
+     <img align="center" alt="Luci-FRAMEWORK.NET" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg"/>
+       <img align="center" alt="Luci-FRAMEWORK.NETcore" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
 </div>
 
    
@@ -44,7 +46,7 @@
      <h2>Sistema de Controle de Versões</h2>
      <img align="center" alt="Luci-GIT" height="50" width="50"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
      <img align="center" alt="Luci-GITHUB" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
-     <img align="center" alt="Luci-GITHUB" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tortoisegit/tortoisegit-original.svg" />
+     <img align="center" alt="Luci-SVN" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tortoisegit/tortoisegit-line.svg" />
 </div>
   
 <div style="display: inline_block">
