@@ -40,6 +40,7 @@
    <h2>SGBD´s</h2>
    <img align="center" alt="Luci-MYSQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
    <img align="center" alt="Luci-ORACLE" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
+   <img align="center" alt="Luci-SQLSERVER" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
 </div>   
   
 <div style="display: inline_block">
