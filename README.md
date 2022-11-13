@@ -1,8 +1,8 @@
 ### Oie, Eu sou a Luci Sousa
 
 *  Graduada em Sistemas para Internet 
-* 🔭Hoje trabalho como Analista Programador(.NET/Delphi/PLSQL-ORACLE)
-* 🌱 Estou estudando programação (Back-End)
+* 🔭Hoje trabalho como Analista Programadora(.NET/Delphi/PLSQL-ORACLE)
+* 🌱 Estou estudando programação em constancia (Back-End)
 * 📫 Contate-me via e-mail: luci.desenv@gmail.com
 * 😄 Pronouns: ela/dela
 
