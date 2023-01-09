@@ -1,6 +1,7 @@
 ### Oie, Eu sou a Luci Sousa
 
 *  Graduada em Sistemas para Internet 
+*  Pós Graduanda em Engenharia de Software com Métodos Ágies
 * 🔭Hoje trabalho como Analista Programadora(.NET/Delphi/PLSQL-ORACLE)
 * 🌱 Estudando programação em constancia (Back-End)
 * 📫 Contate-me via e-mail: luci.desenv@gmail.com
